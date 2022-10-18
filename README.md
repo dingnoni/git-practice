@@ -1,5 +1,3 @@
-# lecture_note_6.md
----
 
 ## git
 using distribute
